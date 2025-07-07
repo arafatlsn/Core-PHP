@@ -10,7 +10,7 @@
     <?php
     $myArray = ['arafat', 25, '5ft 6ichs'];
     echo "<strong class='text-red-500'>There are these types of data types in PHP.</strong>";
-    print_r($myArray[0]);
+    $newString = 'no-wifi'
     /* 
     
     1. Integer - 333
@@ -20,6 +20,7 @@
     5. Array - ["Md. Arafat Hossan Lisan, 25, "5ft 6inchs"]
     6. Object -
     7. null
+
     */
     ?>
 </body>
